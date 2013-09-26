@@ -1,6 +1,8 @@
 kgoldrunner (4:4.11.1-0r0) UNRELEASED; urgency=low
 
   * New upstream release.
+  * Remove patch 0001-Remove-shebang-line-from-desktop-file.patch,
+    already applied upstream.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 03 Sep 2013 20:19:52 +0200
 
