@@ -1,11 +1,15 @@
-kgoldrunner (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+kgoldrunner (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release
   * Relax on the libkdegames depend. It does not
     look like kde4 version will be updated.
   * Ok, kde4 games need to depend on 14.12 series lib. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 21:57:33 -0700
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 01:29:00 +0200
 
 kgoldrunner (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
