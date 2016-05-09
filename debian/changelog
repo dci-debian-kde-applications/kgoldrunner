@@ -1,3 +1,11 @@
+kgoldrunner (4:15.12.0-2~1.gbpbf5a08) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @bf5a08113f8f3958d30ffd449df98a87041b054f **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:07:55 +0200
+
 kgoldrunner (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
