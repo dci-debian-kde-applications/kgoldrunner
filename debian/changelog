@@ -1,10 +1,6 @@
-kgoldrunner (4:15.12.0-2~2.gbp31456a) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @31456a485cbe0feb970b31143e7ba24a8c9680de **
+kgoldrunner (4:15.12.0-2) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @bf5a08113f8f3958d30ffd449df98a87041b054f **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
@@ -12,7 +8,7 @@ kgoldrunner (4:15.12.0-2~2.gbp31456a) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 12:07:21 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 18:17:37 +0200
 
 kgoldrunner (4:15.12.0-1) experimental; urgency=medium
 
