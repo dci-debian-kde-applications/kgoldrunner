@@ -36,6 +36,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kgoldrunner.git
 Package: kgoldrunner
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Recommends: khelpcenter
 Description: Lode Runner arcade game
  KGoldrunner is a fast-paced platform game where the player must navigate a
